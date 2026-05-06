@@ -4,7 +4,7 @@ This project examines the actions of autonomous vehicles (AVs), conventional veh
 User Guide:
 - [GanttChart]()
 - [Timesheet]()
-- [SOW]()
+- [SOW](https://github.com/sofialopez65/Project-5/blob/main/CIVE202_Spring2026_TRANS-01-17_Project5_SOW.pdf)
 - [PythonCode](https://github.com/sofialopez65/Project-5/blob/main/CIVE202_Spring2026_Group_Trans-01-11_Project_5.ipynb)
 - [ACD]()
 - [Technical Report]()
