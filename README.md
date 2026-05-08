@@ -7,4 +7,4 @@ User Guide:
 - [SOW](https://github.com/sofialopez65/Project-5/blob/main/CIVE202_Spring2026_TRANS-01-17_Project5_SOW.pdf)
 - [PythonCode](https://github.com/sofialopez65/Project-5/blob/main/CIVE202_Spring2026_TRANS-01-17_Project5_pythoncode%20(1).ipynb)
 - [ACD](https://github.com/sofialopez65/Project-5/blob/main/CIVE202_Spring2026_Trans-01-17_Project5_AnnotatedCodingDoc.pdf)
-- [Technical Report]()
+- [Technical Report](https://github.com/sofialopez65/Project-5/blob/main/CIVE202_Spring2026_Group_Trans-01-17_Project_5_TechnicalReport.pdf)
